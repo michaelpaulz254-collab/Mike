@@ -1,6 +1,3 @@
-
-
-```markdown
 <div align="center">
   <img src="https://files.catbox.moe/as1b4c.png" alt="KING-M" width="300"/>
 </div>
@@ -75,58 +72,3 @@ APP_NAME="KING-M"
 # 5. HEROKU API (Optional)
 # Leave blank if you are not using Heroku features.
 HEROKU_API=""
-
-```
-
-### **Step 3: Install & Start**
-
-Go to your "Console" or "Terminal" tab and run these commands:
-
-1. **Install Dependencies:**
-```bash
-npm install
-
-```
-
-
-2. **Start the Bot:**
-```bash
-npm start
-
-```
-
-
-
----
-
-## 💬 Contact / Support
-
-<p align="center">
-<a href="https://whatsapp.com/channel/0029Vb5wVbsEQIanKXKYrq1c"><img src="https://img.shields.io/badge/Join%20Channel-KING--M%20Updates-brightgreen?style=for-the-badge&logo=whatsapp"></a>
-
-
-
-
-
-<a href="https://chat.whatsapp.com/CjBNEKIJq6VE2vrJLDSQ2Z?mode=wwt"><img src="https://img.shields.io/badge/Join%20Support--Group-brightgreen?style=for-the-badge&logo=whatsapp"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/sesco001"><img title="Author" src="https://img.shields.io/badge/Author-Makamesco%20Digital-blueviolet.svg?style=for-the-badge&logo=github"></a>
-</p>
-
-<div align="center">
-<hr>
-<p>© 2026 Makamesco Digital — KING-M | Your WhatsApp Manager</p>
-</div>
-
-```
-
-### ✨ Key Upgrades Made:
-
-1.  **Direct Navigation:** The **"Deploy on Panel"** button uses an anchor link (`#panel-setup`). Clicking it immediately jumps the user to the instructions.
-2.  **Clean Table Layout:** I placed Heroku and Panel buttons side-by-side in a table for a cleaner look.
-3.  **Professional .env Guide:** The code block is formatted as `bash` so it highlights colors nicely and is easy for users to copy.
-4.  **Modern Footer:** Centered copyrights and organized Support buttons.
-
-```
